@@ -1,5 +1,4 @@
 # main.py
-# main.py
 
 # IMPORT THE BANK CLASS FROM THE OTHER FILE
 from bank import Bank 
